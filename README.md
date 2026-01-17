@@ -1,6 +1,7 @@
 # SVD-image-compression
  Image compression using Singular value decomposition (SVD) used in MATLAB which compress images using linear algebra
- https://photos.app.goo.gl/zechXodzYEryWWbc8
+<img width="694" height="421" alt="image" src="https://github.com/user-attachments/assets/b666950b-5b8b-44ef-a245-0ef3183605b3" />
+
  - Setup Environment
 - Open MATLAB.
 - Place the image file you want to compress in the current working directory.
