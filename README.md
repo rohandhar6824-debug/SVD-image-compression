@@ -18,7 +18,7 @@
 - Expect slightly longer runtimes for bigger image files.
 - Final Output
 - And that’s it — your compressed JPEG images are ready! 🎉
-- <img width="1605" height="682" alt="image" src="https://github.com/user-attachments/assets/b01185cb-c081-4a2e-b0fc-74b819c773ef" />
+<img width="1605" height="682" alt="image" src="https://github.com/user-attachments/assets/b01185cb-c081-4a2e-b0fc-74b819c773ef" />
 <img width="1601" height="682" alt="image" src="https://github.com/user-attachments/assets/c12994c3-ee9b-43fe-bfc2-3e9898b0fd22" />
 
 
